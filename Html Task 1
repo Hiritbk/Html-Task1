@@ -7,16 +7,27 @@
   <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
   <h1>
-     my Hobi
+     Login
   </h1>
  
- <b>
-   I Have Many Hobbies But the Main Is Volleyball 
-</b>
- <script src="<script.js"></script>
-</body>
+  <p>
+     username 
+  </p>
+  <input name="" value ="" />
+  <p>
+     password 
+  </p>
+  <input name="" value ="" type="password" />
+  <button>login<butto/>
+  
 
-</html>
+
+
+
+
+  <script src="script.js"></script>
+ </body>
+ 
+ </html>
